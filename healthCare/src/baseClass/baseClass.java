@@ -6,8 +6,8 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.BeforeMethod;
 
-import healthCare.page.loginPage;
-import healthCare.page.patientPage;
+import healthCare_page.loginPage;
+import healthCare_page.patientPage;
 
 
 public class baseClass {

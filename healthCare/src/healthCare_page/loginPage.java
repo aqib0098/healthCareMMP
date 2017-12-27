@@ -1,4 +1,4 @@
-package healthCare.page;
+package healthCare_page;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
